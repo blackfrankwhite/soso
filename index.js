@@ -1,1 +1,1 @@
-index.js
+console.log("asdfasd");
